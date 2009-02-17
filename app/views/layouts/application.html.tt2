@@ -1,0 +1,4 @@
+[% PROCESS $template %]
+
+<hr />
+<a href="/">go to top page</a>
